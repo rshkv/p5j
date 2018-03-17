@@ -2,6 +2,9 @@ package com.rshkv.p5java;
 
 import processing.core.PApplet;
 
+/** 
+ * See <a href="https://processing.org/tutorials/eclipse/">https://processing.org/tutorials/eclipse/</a>.
+*/
 public class MyProcessingSketch extends PApplet {
     Stripe[] stripes = new Stripe[50];
 
