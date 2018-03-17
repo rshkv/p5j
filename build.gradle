@@ -9,4 +9,4 @@ dependencies {
     compile 'org.processing:core:3.3.6-1'
 }
 
-mainClassName = 'com.rshkv.p5java.MyProcessingSketch'
+mainClassName = 'com.rshkv.p5j.MyProcessingSketch'

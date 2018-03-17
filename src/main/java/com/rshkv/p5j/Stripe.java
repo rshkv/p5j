@@ -1,4 +1,4 @@
-package com.rshkv.p5java;
+package com.rshkv.p5j;
 
 import processing.core.PApplet;
 

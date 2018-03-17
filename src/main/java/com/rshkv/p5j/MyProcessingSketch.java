@@ -1,4 +1,4 @@
-package com.rshkv.p5java;
+package com.rshkv.p5j;
 
 import processing.core.PApplet;
 
@@ -9,7 +9,7 @@ public class MyProcessingSketch extends PApplet {
     Stripe[] stripes = new Stripe[50];
 
     public static void main(String[] args) {
-        PApplet.main("com.rshkv.p5java.MyProcessingSketch");
+        PApplet.main("com.rshkv.p5j.MyProcessingSketch");
     }
 
     public void settings() {
