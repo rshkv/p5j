@@ -12,6 +12,10 @@ public class MyProcessingSketch extends PApplet {
         PApplet.main("com.rshkv.p5j.MyProcessingSketch");
     }
 
+    /**
+     * Runs before {@code setup()} and {@code draw()}. Set size and smoothing here.
+     * See <a href="https://processing.org/reference/settings_.html">https://processing.org/reference/settings_.html</a>
+     */
     public void settings() {
         size(300, 300);
     }
