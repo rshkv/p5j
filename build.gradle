@@ -7,7 +7,7 @@ repositories {
 }
 
 dependencies {
-    compile 'org.processing:core:3.3.6-1'
+    compile 'org.processing:core:3.3.7'
 }
 
 mainClassName = 'com.rshkv.p5j.MyProcessingSketch'
