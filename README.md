@@ -4,3 +4,9 @@ Go to the project folder (containing the `gradlew` file). Type the following to 
 ```
 ./gradlew run
 ```
+
+To open the project in IntelliJ, run:
+```
+./gradlew idea
+./gradlew openIdea
+```
